@@ -1,4 +1,4 @@
-## Andrea Acaampora
+## Andrea Acampora
 
 22 \
 Rimini, Italy \
