@@ -1,4 +1,12 @@
 # Andrea Acampora
+![Java](https://img.shields.io/badge/Java-Fluent-critical)
+![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-yellow)
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![C](https://img.shields.io/badge/C-Intermediate-yellow)
+![C++](https://img.shields.io/badge/C++-Beginner-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-green)
+
+
 
 #### Computer Science And Engineering @ Unibo
 <img src="https://github-readme-stats.vercel.app/api?username=andrea-acampora&count_private=true&show_icons=true&theme=gruvbox" height=200px width=550px>
