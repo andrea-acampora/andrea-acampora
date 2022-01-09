@@ -1,10 +1,10 @@
 # Andrea Acampora
 ![Java](https://img.shields.io/badge/Java-Fluent-critical)
-![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-yellow)
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
-![C](https://img.shields.io/badge/C-Intermediate-yellow)
-![C++](https://img.shields.io/badge/C++-Beginner-green)
-![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-green)
+![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-blue)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![C](https://img.shields.io/badge/C-Intermediate-blue)
+![C++](https://img.shields.io/badge/C++-Beginner-yellowgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellowgreen)
 
 
 
