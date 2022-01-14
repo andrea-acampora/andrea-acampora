@@ -3,8 +3,8 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-blue)
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
 ![C](https://img.shields.io/badge/C-Intermediate-blue)
-![C++](https://img.shields.io/badge/C++-Beginner-yellowgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellowgreen)
+![C++](https://img.shields.io/badge/C++-Beginner-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 
 
 
