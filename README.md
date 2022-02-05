@@ -12,7 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=andrea-acampora&count_private=true&show_icons=true&theme=gruvbox" height=200px width=550px>
 
 #### Programming Languages
-<img src="https://wakatime.com/share/@Arop/7b1d5c62-1d9f-4a3a-836c-c29297ecc0b1.svg?sanitaze=true" height=400px width=650px>
+<img src="https://wakatime.com/share/@Arop/7b1d5c62-1d9f-4a3a-836c-c29297ecc0b1.svg" height=400px width=650px>
 
 
 #### Real time coding activity
