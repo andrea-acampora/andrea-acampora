@@ -1,5 +1,5 @@
 # Andrea Acampora
-#### Computer Science And Engineering @ Unibo
+### Computer Science And Engineering @ Unibo
 
 ![Java](https://img.shields.io/badge/Java-Fluent-critical)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-blue)
