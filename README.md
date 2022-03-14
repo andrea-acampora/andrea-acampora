@@ -3,9 +3,9 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-blue)
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
 ![C](https://img.shields.io/badge/C-Intermediate-blue)
+![Scala](https://img.shields.io/badge/Scala-Beginner-yellow)
 ![C++](https://img.shields.io/badge/C++-Beginner-yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
-
 
 
 #### Computer Science And Engineering @ Unibo
