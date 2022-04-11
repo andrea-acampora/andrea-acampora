@@ -2,7 +2,7 @@
 ### 23, Italy
 ### MSc in Computer Science And Engineering @ Unibo
 
-![Java](https://img.shields.io/badge/Java-Fluent-critical)
+![Java](https://img.shields.io/badge/Java-Intermediate-blue)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-blue)
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
 ![C](https://img.shields.io/badge/C-Intermediate-blue)
