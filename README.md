@@ -1,5 +1,4 @@
 # Andrea Acampora
-### 23, Italy
 ### MSc in Computer Science And Engineering @ Unibo
 
 ![Java](https://img.shields.io/badge/Java-Good-Green)
