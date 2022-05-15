@@ -9,12 +9,12 @@
 ![C++](https://img.shields.io/badge/C++-Beginner-yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 
-<img src="https://github-readme-stats.vercel.app/api?username=andrea-acampora&count_private=true&show_icons=true&theme=gruvbox&cache_seconds=1800" height=220px width=510px>
+<img src="https://github-readme-stats.vercel.app/api?username=andrea-acampora&count_private=true&show_icons=true&theme=gruvbox&cache_seconds=1800" height=220px width=500px>
 
 #### Programming languages
-<img src="https://wakatime.com/share/@Arop/7b1d5c62-1d9f-4a3a-836c-c29297ecc0b1.svg" height=400px width=650px>
+<img src="https://wakatime.com/share/@Arop/7b1d5c62-1d9f-4a3a-836c-c29297ecc0b1.svg" height=350px width=650px>
 
 
 #### Real-time daily coding hours
-<img src="https://wakatime.com/share/@Arop/c3fe2869-5ef5-4bc3-8960-99ffe2d5723f.svg?sanitaze=true" height=300px width=650px>
+<img src="https://wakatime.com/share/@Arop/c3fe2869-5ef5-4bc3-8960-99ffe2d5723f.svg?sanitaze=true" height=300px width=700px>
 
