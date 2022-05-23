@@ -47,18 +47,6 @@
 </table>
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 150 Contributions in the Year 2022
- > 
-> 📦 42.4 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 42 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -78,6 +66,5 @@ Linux                    6 hrs 10 mins       ███████████�
 ```
 
 
- Last Updated on 23/05/2022 13:35:09 UTC
 <!--END_SECTION:waka-->
 <img src="https://activity-graph.herokuapp.com/graph?username=andrea-acampora&theme=react-dark">
