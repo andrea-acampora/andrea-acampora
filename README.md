@@ -69,4 +69,4 @@ Linux                    6 hrs 7 mins        ███████████�
 
 <!--END_SECTION:waka-->
 
-![Andrea-acampora-activity-graph](https://andrea-acampora-activity-graph.herokuapp.com/graph?username=andrea-acampora&custom_title=Andrea%20Acampora%20Activity%20Graph&theme=one-dark&hide_border=true)
+<img alt="Contribution activity graph" src="https://andrea-acampora-activity-graph.herokuapp.com/graph?username=andrea-acampora&custom_title=Andrea%20Acampora%20Activity%20Graph&theme=one-dark&hide_border=true" height="350px">
