@@ -14,13 +14,13 @@
   <tr>
     <td> 
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=andrea-acampora&show_icons=true&theme=gruvbox&count_private=true" width="500px" height="250px">
+    <img src="https://github-readme-stats.vercel.app/api?username=andrea-acampora&show_icons=true&theme=gruvbox&count_private=true" width="500px" height="300px">
     <br>
   </p> 
 </td>
 <td> 
   <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arop&custom_title=Now%20coding%20in&theme=gruvbox">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arop&custom_title=Now%20coding%20in&theme=gruvbox&langs_count=5" width="500px" height="300px">
     <br>
   </p> 
 </td>
@@ -67,4 +67,5 @@ Linux                    3 hrs 16 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
-<img src="https://andrea-acampora-activity-graph.herokuapp.com/graph?username=andrea-acampora&custom_title=Andrea%20Acampora%20Activity%20Graph&theme=one-dark&hide_border=true">
+
+![Andrea-acampora-activity-graph](https://andrea-acampora-activity-graph.herokuapp.com/graph?username=andrea-acampora&custom_title=Andrea%20Acampora%20Activity%20Graph&theme=one-dark&hide_border=true)
