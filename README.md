@@ -14,13 +14,13 @@
   <tr>
     <td> 
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=andrea-acampora&show_icons=true&theme=gruvbox" width="500px" height="300px">
+    <img src="https://github-readme-stats.vercel.app/api?username=andrea-acampora&show_icons=true&theme=gruvbox&hide_border=false" width="500px" height="300px">
     <br>
   </p> 
 </td>
 <td> 
   <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arop&custom_title=Now%20coding%20in&theme=gruvbox&langs_count=5" width="500px" height="300px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrea-acampora&theme=gruvbox&hide_border=false" width="500px" height="300px">
     <br>
   </p> 
 </td>
