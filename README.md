@@ -14,7 +14,7 @@
   <tr>
     <td> 
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=andrea-acampora&show_icons=true&theme=gruvbox&count_private=true" width="500px" height="300px">
+    <img src="https://github-readme-stats.vercel.app/api?username=andrea-acampora&show_icons=true&theme=gruvbox" width="500px" height="300px">
     <br>
   </p> 
 </td>
