@@ -31,14 +31,14 @@
   <tr>
     <td> 
     <p align="center">
-    <img alt="Programming languages" src="https://wakatime.com/share/@Arop/7b1d5c62-1d9f-4a3a-836c-c29297ecc0b1.svg" width="500" height="300">
+    <img alt="Programming languages" src="https://wakatime.com/share/@Arop/7b1d5c62-1d9f-4a3a-836c-c29297ecc0b1.svg" width="500px" height="300px">
     <br>
     <em> Programming languages </em>
   </p> 
 </td>
 <td> 
   <p align="center">
-    <img alt="Real-time daily coding hours" src="https://wakatime.com/share/@Arop/c3fe2869-5ef5-4bc3-8960-99ffe2d5723f.svg?sanitaze=true" width="500" height="300">
+    <img alt="Real-time daily coding hours" src="https://wakatime.com/share/@Arop/c3fe2869-5ef5-4bc3-8960-99ffe2d5723f.svg?sanitaze=true" width="500px" height="300px">
     <br>
     <em> Real-time daily coding hours </em>
   </p> 
@@ -68,5 +68,9 @@ Linux                    3 hrs 41 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
-
+<!--
 <img alt="Contribution activity graph" src="https://andrea-acampora-activity-graph.herokuapp.com/graph?username=andrea-acampora&custom_title=Andrea%20Acampora%20Activity%20Graph&theme=one-dark&hide_border=true" height="350px">
+-->
+
+<img alt="Contribution activity graph" src="charts/image.svg">
+
