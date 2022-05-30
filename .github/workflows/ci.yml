@@ -24,5 +24,6 @@ jobs:
           SHOW_LOC_CHART: False
           SHOW_UPDATED_DATE: False
           SHOW_SHORT_INFO: False
+          COMMIT_BY_ME: True
           
           
