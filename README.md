@@ -47,30 +47,7 @@
 </table>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-WebStorm                 2 hrs 16 mins       ███████████████░░░░░░░░░░   61.42% 
-IntelliJ                 1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   38.58%
-
-🐱‍💻 Projects: 
-LAB                      1 hr 49 mins        ████████████░░░░░░░░░░░░░   49.34% 
-actor-physics-simulator  43 mins             █████░░░░░░░░░░░░░░░░░░░░   19.62% 
-pcd-2122                 36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.65% 
-my-project               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.05% 
-asynch-physics-simulator 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18%
-
-💻 Operating System: 
-Linux                    3 hrs 41 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
-<!--
-<img alt="Contribution activity graph" src="https://andrea-acampora-activity-graph.herokuapp.com/graph?username=andrea-acampora&custom_title=Andrea%20Acampora%20Activity%20Graph&theme=one-dark&hide_border=true" height="350px">
--->
 
 <img alt="Contribution activity graph" src="charts/image.svg">
 
