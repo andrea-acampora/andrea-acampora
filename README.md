@@ -78,13 +78,13 @@
 
 ```text
 🔥 Editors: 
-IntelliJ                 10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-PPS-22-virsim            10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
