@@ -78,13 +78,13 @@
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 7 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+actor-smart-city         7 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 mins              █████████████████████████   100.0%
 
 ```
 
