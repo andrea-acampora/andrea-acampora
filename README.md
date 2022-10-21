@@ -93,5 +93,7 @@ Linux                    2 hrs 23 mins       ███████████�
 
 <!--END_SECTION:waka-->
 
+<!--
 <img alt="Contribution activity graph" src="charts/image.svg">
+-->
 
