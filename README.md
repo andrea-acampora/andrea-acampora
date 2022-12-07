@@ -78,13 +78,13 @@
 
 ```text
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SAPERE-incarnation-tutori35 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    35 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
