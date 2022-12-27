@@ -78,13 +78,13 @@
 
 ```text
 🔥 Editors: 
-IntelliJ                 16 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-devops-practice          16 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    16 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
