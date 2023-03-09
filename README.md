@@ -98,4 +98,4 @@ Linux                    11 hrs 58 mins      ███████████�
 <!--
 <img alt="Contribution activity graph" src="charts/image.svg">
 -->
-
+![github-contribution-graph](https://github-readme-activity-graph.cyclic.app/graph?username=andrea-acampora&theme=react)
