@@ -80,13 +80,13 @@
 
 ```text
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-documentation            1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
