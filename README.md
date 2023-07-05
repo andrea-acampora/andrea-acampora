@@ -80,13 +80,13 @@
 
 ```text
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-smartoperatingblock.githu10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
