@@ -1,6 +1,6 @@
 # Andrea Acampora
 
-### MSc in Computer Science And Engineering @ Unibo
+## MSc in Computer Science And Engineering
 
 <!--
 ![Java](https://img.shields.io/badge/Java-Good-Green)
@@ -58,7 +58,7 @@
   <tr>
     <td> 
     <p align="center">
-    <img alt="Programming languages" src="https://wakatime.com/share/@Arop/7b1d5c62-1d9f-4a3a-836c-c29297ecc0b1.svg" width="500px" height="300px">
+    <img alt="Programming languages" src="https://wakatime.com/share/@Arop/bc0c0446-37ad-4637-8c4a-20e4cb75b29d.svg" width="500px" height="300px">
     <br>
     <em> Programming languages </em>
   </p> 
@@ -74,8 +74,8 @@
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-698%20hrs%2049%20mins-blue)
 
+<!--
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -88,11 +88,12 @@ No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
 ```
-
+-->
 
 <!--END_SECTION:waka-->
 
-<!--
-<img alt="Contribution activity graph" src="charts/image.svg">
--->
-![github-contribution-graph](https://github-readme-activity-graph.cyclic.app/graph?username=andrea-acampora&theme=react)
+![github-contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=andrea-acampora&theme=react)
+
+<p align="center">
+  <img src="http://img.shields.io/badge/Code%20Time-698%20hrs%2049%20mins-blue"/>
+</p>
