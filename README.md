@@ -1,6 +1,6 @@
 # Andrea Acampora
 
-## MSc in Computer Science And Engineering
+## Software Engineer
 
 <!--
 ![Java](https://img.shields.io/badge/Java-Good-Green)
