@@ -9,6 +9,60 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 -->
 
+<table>
+  <tr>
+    <td> 
+    <p align="center">
+          <em> Programming languages </em>
+    <img alt="Programming languages" src="https://wakatime.com/share/@Arop/bc0c0446-37ad-4637-8c4a-20e4cb75b29d.svg" width="500px" height="300px">
+    <br>
+  </p> 
+</td>
+<td> 
+  <p align="center">
+        <em> Real-time daily coding hours </em>
+    <img alt="Real-time daily coding hours" src="https://wakatime.com/share/@Arop/c3fe2869-5ef5-4bc3-8960-99ffe2d5723f.svg?sanitaze=true" width="500px" height="300px">
+    <br>
+  </p> 
+</td>
+</tr>
+    <tr>
+    <td> 
+    <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrea-acampora&theme=gruvbox&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&line_height=23&hide_border=true&custom_title=Github+Stats&rank_icon=github&number_format=long&show=prs_merged_percentage" width="500px" alt="GitHub stats Card" />
+    <br>
+  </p> 
+</td>
+<td> 
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrea-acampora&theme=gruvbox&hide_border=true" width="500px" height="300px">
+    <br>
+  </p> 
+</td>
+</tr>
+</table>
+
+<!--START_SECTION:waka-->
+
+<!--
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+-->
+
+<!--END_SECTION:waka-->
+
+![github-contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=andrea-acampora&theme=react)
+
 <p align="center"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -35,63 +89,6 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 </p>
-
-<table>
-  <tr>
-    <td> 
-    <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrea-acampora&theme=gruvbox&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23&hide_border=false&custom_title=Github+Stats&rank_icon=github&number_format=long&show=prs_merged_percentage" width="500px" alt="GitHub stats Card" />
-    <br>
-  </p> 
-</td>
-<td> 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrea-acampora&theme=gruvbox&hide_border=false" width="500px" height="300px">
-    <br>
-  </p> 
-</td>
-</tr>
-</table>
-
-<table>
-  <tr>
-    <td> 
-    <p align="center">
-    <img alt="Programming languages" src="https://wakatime.com/share/@Arop/bc0c0446-37ad-4637-8c4a-20e4cb75b29d.svg" width="500px" height="300px">
-    <br>
-    <em> Programming languages </em>
-  </p> 
-</td>
-<td> 
-  <p align="center">
-    <img alt="Real-time daily coding hours" src="https://wakatime.com/share/@Arop/c3fe2869-5ef5-4bc3-8960-99ffe2d5723f.svg?sanitaze=true" width="500px" height="300px">
-    <br>
-    <em> Real-time daily coding hours </em>
-  </p> 
-</td>
-</tr>
-</table>
-
-<!--START_SECTION:waka-->
-
-<!--
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
--->
-
-<!--END_SECTION:waka-->
-
-![github-contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=andrea-acampora&theme=react)
 
 <p align="center">
   <img src="http://img.shields.io/badge/Code%20Time-698%20hrs%2049%20mins-blue"/>
