@@ -1,7 +1,4 @@
-# Andrea Acampora
-
-## Software Engineer
-
+![Header Image](https://raw.githubusercontent.com/andrea-acampora/andrea-acampora/refs/heads/main/github-header-image.png)
 <!--
 ![Java](https://img.shields.io/badge/Java-Good-Green)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-blue)
@@ -12,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 -->
 
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
@@ -43,7 +40,7 @@
   <tr>
     <td> 
     <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andrea-acampora&show_icons=true&theme=gruvbox&hide_border=false" width="500px" height="300px">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrea-acampora&theme=gruvbox&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23&hide_border=false&custom_title=Github+Stats&rank_icon=github&number_format=long&show=prs_merged_percentage" width="500px" alt="GitHub stats Card" />
     <br>
   </p> 
 </td>
