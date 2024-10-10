@@ -1,4 +1,6 @@
+<!--
 ![Header Image](https://raw.githubusercontent.com/andrea-acampora/andrea-acampora/refs/heads/main/github-header-image.png)
+-->
 <!--
 ![Java](https://img.shields.io/badge/Java-Good-Green)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-blue)
