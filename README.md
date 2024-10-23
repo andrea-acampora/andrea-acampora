@@ -63,8 +63,9 @@ No Activity Tracked This Week
 
 <!--END_SECTION:waka-->
 
-![github-contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=andrea-acampora&theme=react)
+![github-contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=andrea-acampora&theme=github)
 
+<!--
 <p align="center"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -91,7 +92,9 @@ No Activity Tracked This Week
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 </p>
-
+-->
+<!--
 <p align="center">
   <img src="http://img.shields.io/badge/Code%20Time-698%20hrs%2049%20mins-blue"/>
 </p>
+-->
