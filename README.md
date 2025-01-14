@@ -37,7 +37,7 @@
 </td>
 <td> 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrea-acampora&theme=gruvbox&hide_border=true" width="500px" height="300px">
+    <img src="https://raw.githubusercontent.com/andrea-acampora/andrea-acampora/refs/heads/main/github-streak.svg" width="500px" height="300px">
     <br>
   </p> 
 </td>
