@@ -31,7 +31,7 @@
     <tr>
     <td> 
     <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrea-acampora&theme=gruvbox&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&line_height=23&hide_border=true&custom_title=Github+Stats&rank_icon=github&number_format=long&show=prs_merged_percentage" width="450px" alt="GitHub stats Card" />
+    <img src="https://github-readme-stats.vercel.app/api?username=andrea-acampora&theme=gruvbox&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&line_height=23&hide_border=true&custom_title=GitHub+Stats&rank_icon=github&number_format=long&show=prs_merged_percentage" width="450px" alt="GitHub stats Card" />
     <br>
   </p> 
 </td>
