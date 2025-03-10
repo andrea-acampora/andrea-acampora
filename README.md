@@ -10,6 +10,11 @@
 ![C++](https://img.shields.io/badge/C++-Beginner-yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,kotlin,java,scala,c,py,kafka,docker,aws,graphql,githubactions,postgres,mongodb" />
+  </a>
+</p>
 
 <table>
   <tr>
